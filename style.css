@@ -56,13 +56,16 @@ p
     border-radius: 5px;
     text-align: center;
     text-transform: uppercase;}
+.facebook:hover {background-color: #2b406e;}
 
 .twitter
 {background-color:#1da1f2;
     border-radius: 5px;
     margin-bottom:5px;
+    margin-top: 30px;
     text-align: center;
     text-transform: uppercase;}
+.twitter:hover {background-color:  #0b7bc1;}
 
 a
 {display: inline-block;
